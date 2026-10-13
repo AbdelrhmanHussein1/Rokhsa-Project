@@ -480,7 +480,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DVLD_Buisness\DVLD_Buisness.csproj">
+    <ProjectReference Include="..\Rokhsa_Buisness\DVLD_Buisness.csproj">
       <Project>{0366dc8a-9401-45c3-88d3-b4962378bfe1}</Project>
       <Name>DVLD_Buisness</Name>
     </ProjectReference>

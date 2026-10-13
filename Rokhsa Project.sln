@@ -3,13 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create DVLD", "Create DVLD\Create DVLD.csproj", "{41D951C7-6BC2-42B9-A7CE-6DE5A6E7CAC4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVLD_Buisness", "Rokhsa_Buisness\DVLD_Buisness.csproj", "{0366DC8A-9401-45C3-88D3-B4962378BFE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVLD_DataAccess", "DVLD_DataAccess\DVLD_DataAccess.csproj", "{4D52B2AB-2C20-4C56-991C-F1F6ED0A135D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVLD_DataAccess", "Rokhsa_DataAccess\DVLD_DataAccess.csproj", "{4D52B2AB-2C20-4C56-991C-F1F6ED0A135D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVLD_Buisness", "DVLD_Buisness\DVLD_Buisness.csproj", "{0366DC8A-9401-45C3-88D3-B4962378BFE1}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{223246E9-13A9-452A-98C4-29C335F5413D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create DVLD", "Rokhsa_Presention\Create DVLD.csproj", "{41D951C7-6BC2-42B9-A7CE-6DE5A6E7CAC4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,18 +15,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{41D951C7-6BC2-42B9-A7CE-6DE5A6E7CAC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{41D951C7-6BC2-42B9-A7CE-6DE5A6E7CAC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{41D951C7-6BC2-42B9-A7CE-6DE5A6E7CAC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{41D951C7-6BC2-42B9-A7CE-6DE5A6E7CAC4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4D52B2AB-2C20-4C56-991C-F1F6ED0A135D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4D52B2AB-2C20-4C56-991C-F1F6ED0A135D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4D52B2AB-2C20-4C56-991C-F1F6ED0A135D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4D52B2AB-2C20-4C56-991C-F1F6ED0A135D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0366DC8A-9401-45C3-88D3-B4962378BFE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0366DC8A-9401-45C3-88D3-B4962378BFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0366DC8A-9401-45C3-88D3-B4962378BFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0366DC8A-9401-45C3-88D3-B4962378BFE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D52B2AB-2C20-4C56-991C-F1F6ED0A135D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D52B2AB-2C20-4C56-991C-F1F6ED0A135D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D52B2AB-2C20-4C56-991C-F1F6ED0A135D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D52B2AB-2C20-4C56-991C-F1F6ED0A135D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41D951C7-6BC2-42B9-A7CE-6DE5A6E7CAC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41D951C7-6BC2-42B9-A7CE-6DE5A6E7CAC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41D951C7-6BC2-42B9-A7CE-6DE5A6E7CAC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41D951C7-6BC2-42B9-A7CE-6DE5A6E7CAC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

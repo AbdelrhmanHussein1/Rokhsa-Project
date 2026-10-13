@@ -88,7 +88,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DVLD_DataAccess\DVLD_DataAccess.csproj">
+    <ProjectReference Include="..\Rokhsa_DataAccess\DVLD_DataAccess.csproj">
       <Project>{4d52b2ab-2c20-4c56-991c-f1f6ed0a135d}</Project>
       <Name>DVLD_DataAccess</Name>
     </ProjectReference>
